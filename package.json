@@ -1,7 +1,7 @@
 {
   "name": "git-react-page",
   "version": "1.0.0",
-  "main": "src/index.js",
+  "main": "build/index.js",
   "repository": "https://github.com/tolulopeoduro/git-react-page",
   "license": "MIT",
   "dependencies": {
