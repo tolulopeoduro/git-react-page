@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="287px" viewBox="0 0 1440 287" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 14</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,5 C326.761039,87.7892225 566.761039,129.183834 720,129.183834 C873.238961,129.183834 1113.23896,87.7892225 1440,5 L1440,285 L0,285 L0,5 Z" id="path-1"></path>
+        <path d="M0,159.984299 C247.173331,73.9947662 421.67924,31 523.517729,31 C625.356218,31 930.850308,73.9947662 1440,159.984299 L1440,287 L0,287 L0,159.984299 Z" id="path-2"></path>
+        <path d="M0,68.8045168 C125.3364,110.355609 209.45527,131.131156 252.35661,131.131156 C316.70862,131.131156 515.565733,31.2004017 1045.04926,0.569634627 C1123.75935,-3.98376583 1255.4096,18.7611949 1440,68.8045168 L1440,284.804517 L0,284.804517 L0,68.8045168 Z" id="path-3"></path>
+    </defs>
+    <g id="New-Designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page" transform="translate(0.000000, -1314.000000)">
+            <g id="Group-7" transform="translate(0.000000, 688.000000)">
+                <g id="Group-14" transform="translate(0.000000, 626.000000)">
+                    <g id="Rectangle-12" opacity="0.0906363225">
+                        <use fill="#2176FF" fill-rule="evenodd" style="mix-blend-mode: luminosity;" xlink:href="#path-1"></use>
+                        <path d="M0,5 C326.761039,87.7892225 566.761039,129.183834 720,129.183834 C873.238961,129.183834 1113.23896,87.7892225 1440,5 L1440,285 L0,285 L0,5 Z" stroke-linejoin="square"></path>
+                    </g>
+                    <g id="Rectangle-10" opacity="0.0306474832">
+                        <use fill="#031B4E" fill-rule="evenodd" style="mix-blend-mode: luminosity;" xlink:href="#path-2"></use>
+                        <path d="M0,159.984299 C247.173331,73.9947662 421.67924,31 523.517729,31 C625.356218,31 930.850308,73.9947662 1440,159.984299 L1440,287 L0,287 L0,159.984299 Z" stroke-linejoin="square"></path>
+                    </g>
+                    <g id="Rectangle-2" opacity="0.0999581473">
+                        <use fill="#2176FF" fill-rule="evenodd" style="mix-blend-mode: luminosity;" xlink:href="#path-3"></use>
+                        <path d="M0,68.8045168 C125.3364,110.355609 209.45527,131.131156 252.35661,131.131156 C316.70862,131.131156 515.565733,31.2004017 1045.04926,0.569634627 C1123.75935,-3.98376583 1255.4096,18.7611949 1440,68.8045168 L1440,284.804517 L0,284.804517 L0,68.8045168 Z" stroke-linejoin="square"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

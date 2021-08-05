@@ -1,0 +1,77 @@
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
+
+.dns-table, .compute-table {
+  width: 100%;
+  min-width: 1110px;
+  overflow-x: hidden; }
+
+.table-overflow {
+  width: 1110px;
+  background: #fff; }
+
+.dns-table-head {
+  border-bottom: 1px solid #ececec; }
+  .dns-table-head p {
+    float: left;
+    margin-bottom: 0;
+    font-weight: 500;
+    padding: 20px 15px; }
+    .dns-table-head p.host {
+      width: 25%; }
+    .dns-table-head p.record {
+      width: 15%; }
+    .dns-table-head p.value {
+      width: 50%; }
+    .dns-table-head p.action {
+      width: 10%; }
+
+.compute-table-head {
+  border-bottom: 1px solid #ececec; }
+  .compute-table-head p {
+    float: left;
+    font-size: 16px;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    font-weight: 500;
+    border-bottom: 2px solid #666;
+    padding: 20px 15px; }
+    .compute-table-head p.ram, .compute-table-head p.cpu, .compute-table-head p.transfer, .compute-table-head p.storage, .compute-table-head p.cost {
+      width: 20%; }
+
+.dns-body-main, .compute-body-main {
+  background: #fff; }
+
+.compute-body {
+  border-bottom: 1px solid #ececec; }
+  .compute-body p {
+    float: left;
+    margin-bottom: 0;
+    font-size: 16px;
+    padding: 20px 15px; }
+    .compute-body p.ram, .compute-body p.cpu, .compute-body p.transfer, .compute-body p.storage, .compute-body p.cost {
+      width: 20%; }
+
+.dns-body {
+  border-bottom: 1px solid #ececec; }
+  .dns-body p {
+    float: left;
+    margin-bottom: 0;
+    padding: 20px 15px; }
+    .dns-body p.host {
+      width: 25%; }
+    .dns-body p.record {
+      width: 15%; }
+    .dns-body p.value {
+      width: 50%; }
+  .dns-body .action {
+    float: left;
+    width: 10%;
+    color: #2176FF;
+    cursor: pointer; }
+    .dns-body .action span {
+      display: block;
+      padding: 20px 5px 10px; }
+    .dns-body .action .disp-none {
+      display: none; }
