@@ -16,5 +16,5 @@
   "scripts": {
     "build": "babel src -d build --copy-files",
     "prepare": "yarn run build"
-   }
+  }
 }
