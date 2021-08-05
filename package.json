@@ -19,6 +19,7 @@
    },
    "files": [
      "./src/css/",
-     "./src/img/"
+     "./src/img/",
+     "./src/img/404.png"
    ]
 }
