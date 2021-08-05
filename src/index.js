@@ -1,5 +1,7 @@
-import Tolulope from './Tolulope';
+import TodaysDate from "./TodaysDate";
+import Tolulope from "./Tolulope";
 
-export { default as TodaysDate } from './TodaysDate';
-
-module.exports=Tolulope
+export{
+    TodaysDate , 
+    Tolulope
+}
