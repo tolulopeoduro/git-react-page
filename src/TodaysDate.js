@@ -1,5 +1,5 @@
 import React from "react";
-import '../public/css/app.css'
+import './css/app.css'
 const TodaysDate = (props) => (
   <div>
     {props.children}
